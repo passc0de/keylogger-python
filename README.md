@@ -13,6 +13,10 @@ A Simple Keylogger Program Written in Python.
 
 * git clone https://github.com/passc0de/keylogger-python
 
+*  cd keylogger-python/
+
+## Usage
+
 * python keylogger.py
 
 ## Output
